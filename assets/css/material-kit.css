@@ -17326,7 +17326,10 @@ footer .pull-center {
   height: 90vh;
   overflow: hidden;
 }
-
+.index-page .page-header .smallheader {
+  height: 5vh;
+  overflow: hidden;
+}
 .index-page .brand {
   color: #fff;
   text-align: center;
