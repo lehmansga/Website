@@ -1,47 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
-	<channel>
-		<title><![CDATA[Lehman SGA]]></title>
-		<description><![CDATA[Official Podcast Central for Lehman Student Government. We'll be hosting various discussions every month, from culture talks to official board meetings and more.
-
-Make sure to follow us at @lehmanSGA on Instagram, Facebook and elsewhere.]]></description>
-		<link>https://anchor.fm/lehmansga</link>
-		<image>
-			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/1420296/1420296-1549559116838-a863cbc3c138d.jpg</url>
-			<title>Lehman SGA</title>
-			<link>https://anchor.fm/lehmansga</link>
-		</image>
-		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Wed, 13 Feb 2019 02:47:34 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/90fc9a0/podcast/rss" rel="self" type="application/rss+xml"/>
-		<copyright><![CDATA[Lehman SGA]]></copyright>
-		<language><![CDATA[en-us]]></language>
-		<itunes:author>Lehman SGA</itunes:author>
-		<itunes:summary>Official Podcast Central for Lehman Student Government. We&apos;ll be hosting various discussions every month, from culture talks to official board meetings and more.
-
-Make sure to follow us at @lehmanSGA on Instagram, Facebook and elsewhere.</itunes:summary>
-		<itunes:type>episodic</itunes:type>
-		<itunes:owner>
-			<itunes:name>Lehman SGA</itunes:name>
-			<itunes:email>student.government@lc.cuny.edu</itunes:email>
-		</itunes:owner>
-		<itunes:explicit>No</itunes:explicit>
-		<itunes:category text="Education">
-			<itunes:category text="Higher Education"/>
-		</itunes:category>
-		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo/1420296/1420296-1549559116838-a863cbc3c138d.jpg"/>
-		<item>
-			<title><![CDATA[Welcome to Lehman SGA!]]></title>
-			<description><![CDATA[<p>Hey FAM! Its ya boy Jeff, and just wanted to welcome you to the official home of all Lehman SGA stuff.</p>]]></description>
-			<link>https://anchor.fm/lehmansga/episodes/Welcome-to-Lehman-SGA-e36knp</link>
-			<guid isPermaLink="false">95df2386-508b-45ad-cf1f-23abcbb749c4</guid>
-			<pubDate>Tue, 12 Feb 2019 20:11:33 GMT</pubDate>
-			<enclosure url="https://anchor.fm/s/90fc9a0/podcast/play/2363577/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-12%2F9914345-44100-1-cba696bfe4f91.m4a" length="829997" type="audio/x-m4a"/>
-			<itunes:summary>&lt;p&gt;Hey FAM! Its ya boy Jeff, and just wanted to welcome you to the official home of all Lehman SGA stuff.&lt;/p&gt;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>29</itunes:duration>
-			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1420296/1420296-1550002301598-8e7d2a5411c33.jpg"/>
-			<itunes:season>1</itunes:season>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-	</channel>
+	<redirect>
+		<newLocation>
+			https://pcr.apple.com/id1451898214
+		</newLocation>
+	</redirect>
 </rss>
